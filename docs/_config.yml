@@ -1,0 +1,12 @@
+title: Book Club Guide
+description: A weekly ideas club. Come as you are; no book to buy and no homework.
+theme: minima
+# Top menu, in this order (E15). Each page's title is its menu label.
+header_pages:
+  - about.md
+  - meetings.md
+  - books.md
+  - join.md
+  - recaps/index.md
+minima:
+  skin: auto

@@ -1,0 +1,8 @@
+# Organizer-only data: never leaves this machine
+private/
+# Built files
+exports/
+# Dependencies
+node_modules/
+tools/node_modules
+docs/_site/

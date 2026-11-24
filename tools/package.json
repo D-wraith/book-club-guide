@@ -1,0 +1,11 @@
+{
+  "name": "book-club-guide-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun build-docx.ts && bun build-xlsx.ts"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
