@@ -7,25 +7,29 @@ order: 4
 
 ## Finding the next meeting
 
-Every meeting has one current listing with the date, time, confirmed location, the discussion question, and links to read the book for free. The RSVP platform (Apple Invites or Eventbrite) is not chosen yet; once it is, the listing is shared by text and through a Facebook event that points to it. Low RSVPs never cancel a meeting.
+Check our Eventbrite listing for the date, time, confirmed location, and discussion topic. We’ll include free reading or borrowing options as they become available. Meeting details are also shared through Facebook and by text.
+
+RSVP if you can—it helps us plan. Every meeting stands on its own, so you’re welcome whether it’s your first visit or you’re returning after a few weeks away.
+
+Meetings go ahead even with a small turnout. If an emergency requires a change, we’ll update the listing.
 
 New to the club? Fill in the short [newcomer form](https://docs.google.com/forms/d/e/1FAIpQLSdglSuFA3zItOqpWlkHG4KvIQv3MIOg7wCXLlZpdqsGRugtmw/viewform) and a founder will say hello before your first Wednesday. Only the founders see your answers.
 
-No purchase, prior reading, or homework is required. The first meeting is confirmed for Wednesday, December 2, at Java Kava Cafe, 13601 66th St N, Largo. The time (6–8 p.m.) is still proposed, and the RSVP link is shared when ready.
+No purchase, prior reading, or homework is required. The first meeting is confirmed for Wednesday, December 2, at Java Kava Cafe, 13601 66th St N in Largo.
 
 ## Comfortable spaces for visitors
 
-Prioritize open, spacious settings where visitors feel comfortable entering, sitting down, and joining the conversation. A smaller or more intimate setting can work when it remains welcoming and comfortable. Consider seating, audibility, ease of access, and room to move when assessing a location.
+We look for welcoming spaces where you can comfortably settle in, hear others, and join the conversation. Open, spacious settings are our preference, though smaller spaces can work well too. Seating, ease of access, and room to move all matter.
 
-Try multiple locations as the club develops. No single place needs to become our home now. Keep the monthly library goal while considering other venues for the remaining Wednesdays. Announce each confirmed location clearly so changing venues does not make attendance confusing.
-
-Venue lead: The Book Rescuers lists 8325 Ulmerton Road, Largo, and Monday–Saturday hours of 9 a.m.–8 p.m. The proposed finish matches closing time; hosting and wrap-up arrangements are still to be confirmed. No space is booked. Source checked November 12, 2026.
+As the club grows, we’ll explore different locations, with a goal of meeting at a library once a month. We don’t have a permanent home yet, so check each event listing for the confirmed venue before heading out.
 
 ## In person first, with optional equipment
 
-- Focus on in-person participation at launch. Consider virtual attendees at a later time; do not make hybrid technology a condition for meeting. the club’s Discord supports communication and resources without implying live remote attendance.
-- Possible use of a projector when available and useful for a passage, discussion question, image, or other supporting material. Check venue permission and setup ahead of time. Equipment is an enhancement; the conversation continues if it is unavailable or fails.
+- Our meetings are in person. We may explore virtual participation later; for now, Discord is a place to stay connected and share resources between meetings.
+- When available, we may use a projector to share passages, questions, or images. Equipment is optional—the conversation carries on with or without it.
 
 ## Spreading the word
 
-Begin telling people about the club and inviting them. Explain the ideas-focused social purpose, the Wednesday schedule, and that no purchase, prior reading, or homework is required. Outreach is planned; no invitations have been sent on the club’s behalf through this guide.
+Know someone who would enjoy books, conversation, and good company? Invite them to join us on a Wednesday.
+
+No book purchase, prior reading, or homework is required. Bring a friend, share an event listing, or tell someone about a conversation that stayed with you. Check the listing for the time and confirmed location.

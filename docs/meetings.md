@@ -7,85 +7,100 @@ order: 2
 
 ## Before Wednesday
 
-Keep a single current event listing with the date, time, confirmed physical location, one discussion question, and book-access links. Once the RSVP platform is selected, use it as the main record and direct the Facebook event to it. Virtual attendance is a later consideration, not a current launch requirement.
+Check Eventbrite for the current meeting details, including the date, time, confirmed location, and discussion question. We’ll include book-access links as they become available. Facebook helps you follow upcoming events, and our GitHub site brings together club information, resources, and recaps.
 
-Proposed default: confirm and post the location by Monday at 6 p.m. Arrange an alternative physical venue before the first meeting. Venue problems trigger that fallback when safe and practical. Never advertise an unconfirmed venue as booked. Independent reading remains an option if gathering is not possible.
+We aim to confirm each Wednesday’s location by Monday at 6 p.m. If a venue changes, we’ll update the event listings. When safe and practical, we’ll arrange an alternative place to meet.
 
-Prepare a short passage or original summary and one question; make them accessible to at least two people. Use the club’s Discord for discussion, resources, and recaps, with key details also available outside Discord. The club continues without the server or Ivan present. Low RSVPs do not cancel a meeting.
+Each meeting starts with a short passage or summary and a question to explore together. No preparation is required, and a small turnout won’t cancel the conversation.
+
+If an emergency prevents us from gathering, you’re welcome to read or jot down ideas on your own—but there’s never a homework obligation.
 
 ## A flexible two-hour gathering
 
-| Approximate time | Discussion focus |
-|---|---|
-| 6:00–7:00 | Welcome and explore the literature: read together, unpack the author’s point, and discuss passages. No preparation required. |
-| 7:00–8:00 | Explore the ideas: trade experiences, question assumptions, and explain concepts through your passions or specialties. Invite simple analogies others can understand. Close with optional takeaways. |
-| Flexible throughout | Follow the conversation naturally. The halfway point is a guide, not a hard switch or required agenda. |
+| Approximate time    | Discussion focus                                                                                                                                                                                     |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6:00–7:00           | Welcome and explore the literature: read together, unpack the author’s point, and discuss passages. No preparation required.                                                                         |
+| 7:00–8:00           | Explore the ideas: trade experiences, question assumptions, and explain concepts through your passions or specialties. Invite simple analogies others can understand. Close with optional takeaways. |
+| Flexible throughout | Follow the conversation naturally. The halfway point is a guide, not a hard switch or required agenda.                                                                                               |
 
 ## Shared responsibilities
 
-The one role every meeting needs is a **note taker**, who records ideas and decisions; recording the session is a good way to help. An **opener** and an **usher (moderator)** help when someone can take them, and roles may rotate or be combined in a small group. The opener guides the discussion and time. The usher watches the atmosphere and helps prevent tension from becoming conflict. Anyone present can take these roles.
+Each meeting needs a **note taker** to capture ideas and decisions. An **opener** helps guide the conversation and time, while an **usher (moderator)** helps keep discussion welcoming and respectful.
+
+Anyone present can volunteer. Roles may rotate or be combined in a small group, so meetings can continue when the usual organizers are away. If we consider recording a session, we’ll ask everyone’s permission first.
 
 ## When something goes wrong
 
-- Only one person arrives: read and take notes at a comfortable pace. Solo reading between meetings is encouraged, never required. In an emergency, continue independently only if safe and practical.
-- The usual organizer is absent: someone present uses this guide and the prepared discussion prompt.
-- No passage is prepared: begin with the standing question, “What do you want to move toward, and what is making that difficult?”
-- A planning disagreement interrupts discussion: record it as unresolved and return to the topic. It cannot block the current meeting.
+- Only one person arrives: take the time to read and jot down ideas at a comfortable pace. Reading between meetings is always optional.
+- The usual organizer is absent: someone present can use this guide and the prepared discussion question to get things started.
+- No passage is prepared: begin with, “What do you want to move toward, and what is making that difficult?”
+- A planning disagreement interrupts discussion: note it for later and return to the conversation.
+- An emergency disrupts the meeting: put safety first. Continuing independently is an option only when safe and practical.
 
 ## The usher and discussion boundaries
 
 ### A person who looks after the atmosphere
 
-When someone can take the role, name an usher before discussion begins so everyone knows who is helping look after the atmosphere. The role can alternate each week and does not depend on a founder being present. In a small group, the opener can also usher. If the usher becomes involved in a disagreement, another willing participant takes over.
+The usher helps everyone feel comfortable, heard, and respected. We’ll identify who is taking this role at the start of the meeting. The role can rotate, and in a small group the opener may also usher.
 
-The usher helps people stay comfortable, heard, and respectful. They may pause or redirect discussion without waiting for a conflict to become an altercation. They do not decide who has the right opinion or prevent ordinary disagreement.
+The usher may pause or redirect a conversation when needed. Different opinions are welcome—their role is to support healthy discussion, not decide who is right. If they become involved in a disagreement, another willing participant can step in.
 
-### Notice tension early
+### Make room for each other
 
-Watch for repeated interruptions, rising volume, sarcasm aimed at someone, personal accusations, people talking over one another, or several people pressing one participant. A change in someone’s participation may be worth a gentle check-in, but do not assume what they feel. Different opinions and animated conversation are welcome; pressure and personal attacks are not.
+Give others time to finish, ask questions before assuming, and challenge ideas without attacking people. Animated conversation is welcome; repeated interruptions, personal accusations, and piling onto one person are not.
 
-### Respond before it escalates
+If someone grows quiet, we may gently check in without assuming how they feel. Everyone is free to pass or simply listen.
 
-- Pause calmly: “Let’s slow this down and take one person at a time.” Describe what is happening without labeling anyone.
-- Return to the idea: “Can we explore the point without making it about the person?” Invite people to speak from their own experience.
-- Use what we are learning: check assumptions, listen before responding, consider another perspective, or separate a reaction from the next action. Invite reflection; do not use a book’s teachings to diagnose, shame, or win against someone.
-- If the exchange keeps heating up, take a short break or change the topic. No one has to settle the disagreement, apologize publicly, or disclose more in order for the meeting to continue.
-- If personal attacks continue, ask the person to step away from the discussion. If anyone is threatened or feels unsafe, stop the session and seek venue assistance. The continuity rule never requires staying in an unsafe situation.
+### When a conversation gets tense
 
-### Keep it a social discussion rather than therapy
+- Slow down and take one person at a time.
+- Bring the focus back to the idea and speak from personal experience.
+- Put what we’re learning into practice: check assumptions, listen, and consider another perspective. Don’t use a book’s teachings to label or shame someone.
+- Take a break or change the topic when needed. We don’t have to resolve every disagreement before moving on.
+- If personal attacks continue, the usher may ask someone to step away. If anyone is threatened or unsafe, stop the discussion and seek help from venue staff. Keeping the club going never means staying in an unsafe situation.
 
-Personal examples are welcome, but nobody is asked to process trauma, reveal intimate details, or accept the group’s interpretation of their life. Avoid diagnosing, trying to fix another person, or turning one participant into the subject of the meeting. People can pass, step out, or simply listen.
+### A social discussion, not therapy
 
-When the conversation becomes too personal or emotionally demanding, the usher helps facilitate healthy conversation by gently pausing or redirecting the discussion when needed: “Thank you for sharing. We do not need you to go further. Would you prefer a pause or for us to return to the broader idea?” Respect the person’s answer and bring the discussion back to shared ideas rather than questioning them further.
+Personal experiences can help us understand ideas, but you never need to share intimate details or explain more than you want to. We avoid diagnosing, trying to fix one another, or making one person’s life the subject of the meeting.
+
+You’re welcome to pass, step out, or listen. If a conversation becomes too personal or emotionally demanding, the usher may offer a pause and gently bring us back to the broader idea.
 
 ### After the meeting
 
-Briefly note any useful facilitation lesson or change needed for next time. Keep sensitive personal details out of the recap; leaving them out entirely is best. Recaps are never shown publicly until someone has reviewed them for personal information. Only reviewed recaps go on the published site; drafts stay private to the organizers. The aim is to learn how the group works together, not to keep a record of people’s vulnerabilities.
+Recaps capture shared ideas, useful questions, and takeaways. We leave out sensitive personal details and review every recap before publishing it on the club’s site.
+
+We also reflect on what helped the conversation and what we could improve next time.
 
 ## Learning together
 
-These ideas came from the November 13 planning conversation. They are topics and optional practices to try with the group, not homework, required supplies, or a fixed teaching program.
+We’ll explore different ways to understand, remember, and use ideas. These are optional practices to try together—there are no required supplies, tests, or assignments.
 
 ### Notes, study habits, and remembering ideas
 
-Explore how participants take notes, remember information, and return to useful ideas. Bring sticky notes, page tabs, notebooks, and Bible-study-style highlighters as possible tools. Nobody needs to purchase supplies; use removable notes with borrowed books.
+Sticky notes, page tabs, notebooks, and highlighters can help you return to something meaningful. Use what you already have, and stick to removable notes when borrowing books.
 
-A simple approach to try: mark one idea, write its page or chapter, restate it in your own words, and add a question or an analogy from your passion. An optional color key could distinguish an idea, a question, and an application. Keep the system simple enough to use.
+One simple approach: choose an idea, note its page or chapter, explain it in your own words, and add a question or an analogy from something you love. If colors help, use them to distinguish ideas, questions, and possible applications.
 
-During a meeting, invite people to close the text briefly, explain what they remember, then check it against the passage. Revisit earlier ideas in later conversations and compare which note-taking habits people find useful. These are optional experiments in learning, not tests or assignments.
+We may also pause to recall a passage in our own words, then look back together. Revisiting earlier ideas gives us a chance to see what stayed with us and learn from each other’s approaches.
 
 ### Start with an outcome and build the environment
 
-- Working idea from the conversation: first determine the outcome, then build the environment that supports it. A proposed extension for discussion is: **Define the outcome → Arrange the environment → Act → Review what happened → Adjust.** Explore how this applies to a project, habit, thought, or the club itself; do not present it as a universal law.
-- Club example: if the aim is for a newcomer to explain an idea comfortably, create a welcoming space, introduce a short passage, offer simple prompts, and leave room to ask questions. Then ask what helped and what needs changing.
+- What do you want to make possible, and what conditions would help? One approach we’ll explore is: **Define the outcome → Arrange the environment → Act → Review what happened → Adjust.**
+- This could apply to a project, a habit, or the club itself. If we want newcomers to feel comfortable sharing an idea, we can offer a welcoming space, a short passage, simple prompts, and room for questions—then learn from what helped.
 
-Scientific-method connection: this is a planning framework with room for experimentation. Scientific inquiry asks a testable question, investigates it, gathers evidence, and draws conclusions. A desired outcome is a goal; a hypothesis is a claim to test. Arrange fair conditions to learn from what happens, rather than treating the hoped-for result as already proven.
+This approach also opens a conversation about experimentation and the scientific method: ask a testable question, try something, observe what happens, and reconsider your assumptions. We can choose a direction while staying open to what we discover.
 
 Reference: [NOAA — What Is the Scientific Method](https://www.nesdis.noaa.gov/about/k-12-education/resources-teachers/what-the-scientific-method)
 
 ### Use AI with effort and understanding
 
-The group’s principle is to stay engaged with the work. AI can help explain, question, compare, or organize ideas, but pressing a button is not the same as understanding the result. People remain responsible for what they bring into the discussion.
+AI can help us explore, question, compare, and organize ideas. The goal is to deepen our understanding while staying actively involved. We each remain responsible for what we bring into the conversation.
 
-- An optional practice: make your own attempt first; ask AI to clarify a confusing point or challenge your explanation; check quotations and factual claims against the original source; then explain the result in your own words. Identify meaningful AI assistance and what you checked. Keep other participants’ personal stories out of prompts without their permission.
-- Ask: “What did I learn, what did I verify, and what can I now explain myself?” If an answer is still unclear, use that uncertainty as a question for the group. AI access is never required to participate.
+- Try explaining an idea yourself first. Then, if useful, ask AI to clarify a confusing point or challenge your thinking.
+- Check quotations and factual claims against the original source, and put what you’ve learned into your own words.
+- When AI meaningfully contributes to something you share, mention how you used it and what you checked.
+- Keep other participants’ personal stories out of AI prompts unless they’ve given permission.
+
+Ask yourself: “What did I learn, what did I verify, and what can I now explain myself?” If something is still unclear, bring that question to the group.
+
+AI is an optional tool. You never need access to it to participate.

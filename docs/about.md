@@ -13,9 +13,13 @@ You do not need to buy a book, finish a book, or attend every week to participat
 
 ## Understanding through our passions
 
-A core goal is to help people recognize their purpose and use their passions or specialties to make ideas understandable to others. A chef might explain a reading concept through a cooking analogy a fifth grader could understand. Any interest or lived experience can contribute; no credential or settled sense of purpose is required.
+What you love can help someone else understand something new. We invite you to connect the ideas we discuss with your passions, interests, and lived experience. A chef might explain a concept through cooking; a musician might find a connection in rhythm or harmony.
 
-Ask: “How would you explain this through something you love or know well?” Invite questions and other analogies to build shared understanding. Participation remains optional.
+You don’t need credentials or a fully figured-out sense of purpose. Exploring what matters to you—and hearing what matters to others—is part of why we meet.
+
+“How would you explain this through something you love or know well?”
+
+Share an example, ask a question, or simply listen. There’s no pressure to contribute.
 
 ## Rules that keep the club going
 
