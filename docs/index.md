@@ -18,7 +18,7 @@ A weekly ideas club: we read a little, talk a lot, and help each other see new p
 
 **Reading:** *Psycho-Cybernetics* by Maxwell Maltz · [free ways to read it](books.md)
 
-**New here?** [Start with Join us](join.md) · [Suggest a book or a change]({{ site.github.repository_url }}/issues/new/choose)
+**New here?** [Tell us about yourself](https://docs.google.com/forms/d/e/1FAIpQLSdglSuFA3zItOqpWlkHG4KvIQv3MIOg7wCXLlZpdqsGRugtmw/viewform) · [What to expect](join.md) · [Suggest a book or a change]({{ site.github.repository_url }}/issues/new/choose)
 
 </div>
 
