@@ -1,0 +1,42 @@
+name: Suggest a change to the guide
+description: Something in the guide is wrong, unclear or missing.
+title: "Suggestion: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the guide current. The founders read every suggestion and decide together.
+        **This page is public.** Please don't include phone numbers, email addresses or anyone's personal details.
+  - type: dropdown
+    id: page
+    attributes:
+      label: Which page?
+      options:
+        - Home
+        - About
+        - How meetings work
+        - Books
+        - Join us
+        - Recaps
+        - How this guide stays current
+        - Not sure / more than one
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+      description: Quote the words now on the page if you can, then say what they should say instead.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why?
+      description: Optional. A sentence or two helps the founders decide.
+  - type: input
+    id: credit
+    attributes:
+      label: Name to credit
+      description: Optional. A first name or nickname is plenty.

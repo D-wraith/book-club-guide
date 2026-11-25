@@ -13,7 +13,7 @@ Update this guide from submitted notes and minutes. Preserve decisions and recap
 
 ## Version control with Git
 
-The Guide’s text lives in a Git repository on GitHub. Every change is saved with who made it, when and why, and any two versions can be compared. A suggested edit becomes a pull request that the other founders review and accept, so the history doubles as the edit log. Small lists (books, actions, meeting dates) can live in the repository as tables; tasks fit GitHub Issues. For now, suggestions and reviews stay in the shared Google Doc. GitHub pull requests and Issues remain options for later.
+The Guide’s text lives in a Git repository on GitHub. Every change is saved with who made it, when and why, and any two versions can be compared. A suggested edit becomes a pull request that the other founders review and accept, so the history doubles as the edit log. Small lists (books, actions, meeting dates) can live in the repository as tables; tasks fit GitHub Issues. For now, suggestions and reviews stay in the shared Google Doc. Anyone can also suggest a change or a book through the [suggestion forms]({{ site.github.repository_url }}/issues/new/choose) on GitHub (a free GitHub account is needed); the founders review those alongside the Doc. Pull requests remain an option for later.
 
 ## A site anyone can use
 

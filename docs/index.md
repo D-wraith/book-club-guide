@@ -8,6 +8,20 @@ order: 0
 
 A weekly ideas club: we read a little, talk a lot, and help each other see new possibilities.
 
+<div class="next-meeting" markdown="1">
+
+## Next meeting
+
+**Wednesday, December 2 · 6–8 p.m. Eastern** (time proposed)
+
+**Java Kava Cafe** · [13601 66th St N, Largo, FL 33771](https://www.google.com/maps/search/?api=1&query=Java+Kava+Cafe+13601+66th+St+N+Largo+FL+33771)
+
+**Reading:** *Psycho-Cybernetics* by Maxwell Maltz · [free ways to read it](books.md)
+
+**New here?** [Start with Join us](join.md) · [Suggest a book or a change]({{ site.github.repository_url }}/issues/new/choose)
+
+</div>
+
 **Version 0.10 · November 23, 2026 · Club name pending**
 
 ## Come as you are

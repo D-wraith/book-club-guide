@@ -17,7 +17,10 @@ const inline = (s: string) => esc(s)
 function render(md: string): string {
   let out = "", list = "", rows: string[][] = [];
   const close = () => { if (list) { out += `</${list}>`; list = ""; } if (rows.length) { out += `<table><thead><tr>${rows[0].map((c) => `<th>${inline(c)}</th>`).join("")}</tr></thead><tbody>${rows.slice(1).map((r) => `<tr>${r.map((c) => `<td>${inline(c)}</td>`).join("")}</tr>`).join("")}</tbody></table>`; rows = []; } };
-  for (const line of md.replace(/^---[\s\S]*?---\n/, "").split("\n")) {
+  for (const line of md.replace(/^---[\s\S]*?---\n/, "").replaceAll("{{ site.github.repository_url }}", "https://github.com/D-wraith/book-club-guide").split("\n")) {
+    const div = line.match(/^<div class="([\w-]+)"[^>]*>$/);
+    if (div) { close(); out += `<div class="${div[1]}">`; continue; }
+    if (line === "</div>") { close(); out += "</div>"; continue; }
     if (line.startsWith("|")) { const c = line.split("|").slice(1, -1).map((x) => x.trim()); if (!c.every((x) => /^:?-+:?$/.test(x))) rows.push(c); continue; }
     const li = line.match(/^\s*- (.*)/), ol = line.match(/^\d+\. (.*)/);
     if (li || ol) { const t = li ? "ul" : "ol"; if (rows.length || list !== t) { close(); out += `<${t}>`; list = t; } out += `<li>${inline((li ?? ol)![1])}</li>`; continue; }
@@ -39,7 +42,8 @@ header .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;align-ite
 main{padding:24px 0 48px}h1{font-size:2rem;line-height:1.2}h2{font-size:1.5rem;margin-top:2rem}h3{font-size:1.15rem}a{color:var(--link)}
 table{border-collapse:collapse;width:100%;margin:1rem 0;display:block;overflow-x:auto}th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}th{background:var(--head)}
 footer{border-top:1px solid var(--line);color:var(--muted);font-size:14px;padding:16px 0}.banner{background:#fff4ce;color:#5c4400;padding:8px 16px;text-align:center;font-size:14px}
-@media (max-width:600px){nav{width:100%}nav a{display:inline-block;margin:0 12px 8px 0}}`;
+@media (max-width:600px){nav{width:100%}nav a{display:inline-block;margin:0 12px 8px 0}}
+.next-meeting{border:2px solid #2a7ae2;border-radius:10px;background:rgba(42,122,226,.07);padding:1rem 1.5rem .5rem;margin:1.5rem 0 2rem;font-size:1.25rem;line-height:1.5}.next-meeting h2{margin-top:0;font-size:1.9rem}.next-meeting p{margin:0 0 .6rem}`;
 
 mkdirSync(OUT, { recursive: true });
 for (const page of PAGES) {

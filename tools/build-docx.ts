@@ -45,6 +45,7 @@ function table(rows: string[][]): string {
   return `<w:tbl><w:tblPr><w:tblW w:w="${TABLE_W}" w:type="dxa"/><w:tblBorders>${b}</w:tblBorders><w:tblLayout w:type="fixed"/><w:tblCellMar><w:top w:w="60" w:type="dxa"/><w:left w:w="100" w:type="dxa"/><w:bottom w:w="60" w:type="dxa"/><w:right w:w="100" w:type="dxa"/></w:tblCellMar></w:tblPr><w:tblGrid>${w.map((x) => `<w:gridCol w:w="${x}"/>`).join("")}</w:tblGrid>${trs}</w:tbl>${para("")}`;
 }
 
+const REPO_URL = "https://github.com/D-wraith/book-club-guide";
 let body = "";
 PAGES.forEach((page, p) => {
   const lines = readFileSync(join(ROOT, "docs", page), "utf8").replace(/^---[\s\S]*?---\n/, "").split("\n");
@@ -52,7 +53,10 @@ PAGES.forEach((page, p) => {
   let rows: string[][] = [], skipNav = false;
   const flush = () => { if (rows.length) { body += table(rows); rows = []; } };
   for (const raw of lines) {
-    const line = raw.trimEnd();
+    // Site-only HTML wrappers (the home page's Next meeting box) have no place in the Word file;
+    // the Liquid repo URL becomes the real one.
+    const line = raw.trimEnd().replaceAll("{{ site.github.repository_url }}", REPO_URL);
+    if (/^<\/?div/.test(line)) continue;
     if (line.startsWith("|")) {
       const cells = line.split("|").slice(1, -1).map((c) => c.trim());
       if (!cells.every((c) => /^:?-+:?$/.test(c))) rows.push(cells);

@@ -1,0 +1,39 @@
+name: Suggest a book
+description: A book the club could read next.
+title: "Book: "
+labels: ["book"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The club reads one book at a time. Suggested books go on the list for the founders to consider.
+        **This page is public.** Please don't include phone numbers, email addresses or anyone's personal details.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this book?
+      description: What idea in it would make for a good Wednesday conversation?
+    validations:
+      required: true
+  - type: input
+    id: free
+    attributes:
+      label: A free way to read it
+      description: Optional. A library, Libby or public-domain link.
+  - type: input
+    id: credit
+    attributes:
+      label: Name to credit
+      description: Optional. A first name or nickname is plenty.
