@@ -9,8 +9,8 @@ order: 4
 
 Every meeting has one current listing with the date, time, confirmed location, the discussion question, and links to read the book for free. The RSVP platform (Apple Invites or Eventbrite) is not chosen yet; once it is, the listing is shared by text and through a Facebook event that points to it. Low RSVPs never cancel a meeting.
 
-
 New to the club? Fill in the short [newcomer form](https://docs.google.com/forms/d/e/1FAIpQLSdglSuFA3zItOqpWlkHG4KvIQv3MIOg7wCXLlZpdqsGRugtmw/viewform) and a founder will say hello before your first Wednesday. Only the founders see your answers.
+
 No purchase, prior reading, or homework is required. The first meeting is confirmed for Wednesday, December 2, at Java Kava Cafe, 13601 66th St N, Largo. The time (6–8 p.m.) is still proposed, and the RSVP link is shared when ready.
 
 ## Comfortable spaces for visitors
