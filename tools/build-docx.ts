@@ -45,7 +45,7 @@ function table(rows: string[][]): string {
   return `<w:tbl><w:tblPr><w:tblW w:w="${TABLE_W}" w:type="dxa"/><w:tblBorders>${b}</w:tblBorders><w:tblLayout w:type="fixed"/><w:tblCellMar><w:top w:w="60" w:type="dxa"/><w:left w:w="100" w:type="dxa"/><w:bottom w:w="60" w:type="dxa"/><w:right w:w="100" w:type="dxa"/></w:tblCellMar></w:tblPr><w:tblGrid>${w.map((x) => `<w:gridCol w:w="${x}"/>`).join("")}</w:tblGrid>${trs}</w:tbl>${para("")}`;
 }
 
-const REPO_URL = "https://github.com/D-wraith/book-club-guide";
+const REPO_URL = "https://github.com/Scrub-Jay-Collective/bookclub";
 let body = "";
 PAGES.forEach((page, p) => {
   const lines = readFileSync(join(ROOT, "docs", page), "utf8").replace(/^---[\s\S]*?---\n/, "").split("\n");

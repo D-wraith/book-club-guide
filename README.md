@@ -2,7 +2,7 @@
 
 The source of the club's published Guide/Wiki and its Edit Log.
 
-**Status:** v0.10, 2026-11-24. Public on GitHub; the site is published by GitHub Pages from `docs/`. Moving to the Scrub-Jay Collective organization.
+**Status:** v0.10, 2026-11-24. Public at github.com/Scrub-Jay-Collective/bookclub; the site is published by GitHub Pages from `docs/` at scrub-jay-collective.github.io/bookclub.
 
 ## What lives where
 

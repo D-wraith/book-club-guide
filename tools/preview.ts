@@ -17,7 +17,7 @@ const inline = (s: string) => esc(s)
 function render(md: string): string {
   let out = "", list = "", rows: string[][] = [];
   const close = () => { if (list) { out += `</${list}>`; list = ""; } if (rows.length) { out += `<table><thead><tr>${rows[0].map((c) => `<th>${inline(c)}</th>`).join("")}</tr></thead><tbody>${rows.slice(1).map((r) => `<tr>${r.map((c) => `<td>${inline(c)}</td>`).join("")}</tr>`).join("")}</tbody></table>`; rows = []; } };
-  for (const line of md.replace(/^---[\s\S]*?---\n/, "").replaceAll("{{ site.github.repository_url }}", "https://github.com/D-wraith/book-club-guide").split("\n")) {
+  for (const line of md.replace(/^---[\s\S]*?---\n/, "").replaceAll("{{ site.github.repository_url }}", "https://github.com/Scrub-Jay-Collective/bookclub").split("\n")) {
     const div = line.match(/^<div class="([\w-]+)"[^>]*>$/);
     if (div) { close(); out += `<div class="${div[1]}">`; continue; }
     if (line === "</div>") { close(); out += "</div>"; continue; }
