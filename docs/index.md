@@ -4,7 +4,7 @@ layout: home
 order: 0
 ---
 
-# Book Club Guide
+# Scrubjay Collective: Books, Conversation & Good Company
 
 A weekly ideas club: we read a little, talk a lot, and help each other see new possibilities.
 
@@ -12,17 +12,15 @@ A weekly ideas club: we read a little, talk a lot, and help each other see new p
 
 ## Next meeting
 
-**Wednesday, December 2 · 6–8 p.m. Eastern** (time proposed)
+**Wednesday, December 2 · 6–8 PM EST**
 
 **Java Kava Cafe** · [13601 66th St N, Largo, FL 33771](https://www.google.com/maps/search/?api=1&query=Java+Kava+Cafe+13601+66th+St+N+Largo+FL+33771)
 
-**Reading:** *Psycho-Cybernetics* by Maxwell Maltz · [free ways to read it](books.md)
+**Reading:** _Psycho-Cybernetics_ by Maxwell Maltz · [Free ways to read it](books.md)
 
 **New here?** [Tell us about yourself](https://docs.google.com/forms/d/e/1FAIpQLSdglSuFA3zItOqpWlkHG4KvIQv3MIOg7wCXLlZpdqsGRugtmw/viewform) · [What to expect](join.md) · [Suggest a book or a change]({{ site.github.repository_url }}/issues/new/choose)
 
 </div>
-
-**Version 0.10 · November 23, 2026 · Club name pending**
 
 ## Come as you are
 
@@ -30,14 +28,16 @@ You do not need to buy a book, finish a book, or attend every week. Every meetin
 
 ## When and where
 
-| Item | Working plan |
-|---|---|
-| First meeting | Wednesday, December 2, 2026, at Java Kava Cafe, 13601 66th St N, Largo, 6–8 p.m. Eastern (time proposed) |
-| Every week | Wednesdays, 6–8 p.m. Eastern (proposed) |
-| Once a month | One Wednesday at a library; branch, week and room not yet set |
-| Other Wednesdays | Comfortable venues that rotate as needed; The Book Rescuers is a candidate |
-| First book | *Psycho-Cybernetics* by Maxwell Maltz (confirmed) |
-| How to RSVP | One listing (Apple Invites or Eventbrite), shared by text and a Facebook event; platform not yet chosen |
+| Item             | Working plan                                                                                                                 |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| First meeting    | Wednesday, December 2, 2026, at Java Kava Cafe (Largo), 6–8 PM EST                                                           |
+| Every week       | Wednesdays, 6–8 PM EST (Locations may vary)                                                                                  |
+| Once a month     | We'd like to meet at a library one Wednesday each month (Location pending)                                                   |
+| Other Wednesdays | Comfortable venues that rotate as needed; The Book Rescuers, Barnes & Nobles are candidates                                  |
+| First book       | _Psycho-Cybernetics_ by Maxwell Maltz (confirmed)                                                                            |
+| How to RSVP      | [Join the Mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdglSuFA3zItOqpWlkHG4KvIQv3MIOg7wCXLlZpdqsGRugtmw/viewform) |
+
+| Invite a Friend | You can share the event on [Facebook](https://www.facebook.com/share/19x3EN5XTY/) and [Eventbrite](https://www.eventbrite.com/e/scrubjay-collective-books-conversation-good-company-tickets-2005061456792?aff=oddtdtcreator) |
 
 ## Find your way around
 
